@@ -1,2 +1,4 @@
 rootProject.name = 'gyway'
+include 'common'
+include 'admin-api'
 
